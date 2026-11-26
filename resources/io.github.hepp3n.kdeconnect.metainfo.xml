@@ -46,6 +46,17 @@
   </recommends>
   <releases>
     <!-- Latest Version -->
+    <release version="0.11.2" date="2026-11-26">
+      <url type="details">https://github.com/cosmic-utils/kdeconnect</url>
+      <description>
+        <p>The is the new version with the following changes:</p>
+        <ul>
+    	  <li>Updated libcosmic</li>
+	  <li>Disabled wgpu for better battery efficiency</li>
+        </ul>
+      </description>
+    </release>
+    <!-- Previous Version -->
     <release version="0.11.1" date="2026-11-20">
       <url type="details">https://github.com/cosmic-utils/kdeconnect</url>
       <description>
@@ -58,7 +69,6 @@
         </ul>
       </description>
     </release>
-    <!-- Previous Version -->
     <release version="0.11.0" date="2026-11-04">
       <url type="details">https://github.com/cosmic-utils/kdeconnect</url>
       <description>
