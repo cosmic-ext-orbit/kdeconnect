@@ -59,6 +59,5 @@ kdeconnect-dbus-client = { path = "kdeconnect-dbus-client" }
 libcosmic = { git = "https://github.com/pop-os/libcosmic", default-features = false, features = [
     "advanced-shaping",
     "applet",
-    "wgpu",
     "single-instance"
 ] }
